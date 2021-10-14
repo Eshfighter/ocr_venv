@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/Users/kendrick/Documents/code_base/ocr-bank-statement_1/venv"
+$VIRTUAL_ENV = r"/Users/kendrick/Documents/code_base/ocr-bank-statement/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
